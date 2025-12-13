@@ -26,6 +26,9 @@ app.add_middleware(
         
         # Telegram Web App основной домен
         "https://web.telegram.org",
+
+         # Netlify frontend
+        "https://sparkly-choux-12aad6.netlify.app",
         
         # Также добавьте все возможные ngrok субдомены
         "https://*.ngrok-free.dev",
