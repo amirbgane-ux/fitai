@@ -30,9 +30,7 @@ app.add_middleware(
          # Netlify frontend
         "https://sparkly-choux-12aad6.netlify.app",
         
-        # Также добавьте все возможные ngrok субдомены
-        "https://*.ngrok-free.dev",
-        "https://*.ngrok.app",
+       
     ],
     allow_credentials=True, 
     allow_methods=["*"],
