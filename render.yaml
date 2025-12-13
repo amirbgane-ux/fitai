@@ -6,4 +6,9 @@ services:
     region: frankfurt
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
-    pythonVersion: 3.11.0
+    # Указываем Python 3.11 через environment variable
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: DATABASE_URL
+        sync: false
