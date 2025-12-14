@@ -31,7 +31,7 @@ app.add_middleware(
         "https://sparkly-choux-12aad6.netlify.app",
 
          
-          "https://fitness-tracker-cyan-three.vercel.app"
+          "https://fitness-tracker-cyan-three.vercel.app",
           "https://bgane.online"
         
        
