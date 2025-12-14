@@ -32,6 +32,7 @@ app.add_middleware(
 
          
           "https://fitness-tracker-cyan-three.vercel.app"
+          "https://bgane.online"
         
        
     ],
