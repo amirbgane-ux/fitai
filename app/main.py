@@ -28,12 +28,12 @@ app.add_middleware(
         "https://web.telegram.org",
 
          # Netlify frontend
-        "https://sparkly-choux-12aad6.netlify.app",
+        
 
          
           "https://fitness-tracker-cyan-three.vercel.app",
-          "https://bgane.online",
-          "https://fitai-3-6ppd.onrender.com"
+          "https://bgane.online"
+          
         
        
     ],
