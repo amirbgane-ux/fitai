@@ -29,6 +29,8 @@ app.add_middleware(
 
          # Netlify frontend
         "https://sparkly-choux-12aad6.netlify.app",
+
+         "https://front-1kl2wk708-amirs-projects-d2eb9917.vercel.app"
         
        
     ],
